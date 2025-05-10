@@ -1,8 +1,7 @@
 #  CS 315: Computer Networks Lab
 
 This repository contains lab assignments, solutions, and question papers for the **CS 315 Computer Networks Lab** course.  
-🗓*Includes 2025 assignments and previous question papers.*
-
+*Includes 2025 assignments and previous question papers.*
 ---
 
 ## Contents
@@ -10,5 +9,4 @@ This repository contains lab assignments, solutions, and question papers for the
 -  Lab Assignments
 -  Solutions to assignments
 -  Previous year (2025) question papers with Solutions
-
 ---
